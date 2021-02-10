@@ -7,6 +7,10 @@
     <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
       {{ content }}
     </div>
+    
+    <div class="my-6">
+      {% include experience.html %}
+    </div>
 
     {% if site.topics %}
       <div class="my-6">
@@ -33,6 +37,8 @@
             {{ content }}
           </div>
         {% endunless %}
+        
+        {% include experience.html %}
 
         {% if site.topics %}
           {% include interests.html %}
