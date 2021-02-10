@@ -18,15 +18,15 @@ defaults:
 
 #projects:
  # sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
+ # sort_by options:
+ #   - pushed
+ #   - stars
  # limit: 9
  # exclude:
-  #  archived: false
-   # forks: true
-   # projects:
-    # - repo-name
+ #  archived: false
+ # forks: true
+ # projects:
+ # - repo-name
 
 social_media:
   # behance: your_username
