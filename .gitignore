@@ -29,3 +29,5 @@ Temporary Items
 # Quarto
 .quarto
 _site
+
+/.quarto/
