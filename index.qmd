@@ -1,0 +1,34 @@
+---
+title: "Gonzalo Jaimovitch"
+about:
+    template: solana
+    image: profile.jpg
+
+---
+
+Hello! My name is Gonzalo Jaimovitch, and I am a Machine Learning Engineer. 
+
+
+## Experience
+
+**Sopra Steria** | Machine Learning Engineer | Feb 2023 - Present
+
+**BMAT** | Machine Learning Engineer Intern | Oct 2022 - Jan 2023
+
+**Cirium** | Associate Data Scientist | Sept 2021 - Aug 2022
+
+**VRAIN (UPV)** | Researcher | Nov 2020 - Aug 2021
+
+## Education
+
+**Universidad Internacional Menéndez Pelayo (UIMP)** | Remote  
+
+M.Sc in Artificial Intelligence Research | Sept 2021 - Jun 2023
+
+**Universidad Politècnica de València (UPV)** | Valencia, Spain  
+
+B.Sc in Computer Science | Sept 2015 - Sept 2020
+
+**Universidad Politècnica de València (UPV)** | Valencia, Spain  
+
+B.A in Business Administration and Management | Sept 2015 - Sept 2020
