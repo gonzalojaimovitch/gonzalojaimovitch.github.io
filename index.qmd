@@ -6,7 +6,7 @@ about:
 
 ---
 
-Hello! My name is Gonzalo Jaimovitch, and I am a Machine Learning Engineer. 
+Hello! My name is Gonzalo Jaimovitch, and I am a Machine Learning Engineer :)
 
 
 ## Experience
